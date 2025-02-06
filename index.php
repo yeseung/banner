@@ -40,8 +40,6 @@
             bottom: 0;
             width: 728px;
             height: 90px;
-            justify-content: center;
-            align-items: center;
             text-align: center;
         }
 
